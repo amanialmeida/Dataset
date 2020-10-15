@@ -1,5 +1,5 @@
 # Disponível em: 
 
-https://raw.githubusercontent.com/scudilio/DominandoDataScience/main/insurance.csv
+https://www.kaggle.com/mirichoi0218/insurance?select=insurance.csv
 
 Medical Cost Data
